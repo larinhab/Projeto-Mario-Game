@@ -23,7 +23,7 @@ Jogo simples de Mário Bros usando apenas CSS e JAVA SCRIPT<br/> </p>
 </p>
 
 <p align="center">
-  <img alt="Hit pipe" src="/src/assets/finalizado3.png" width="100%">
+  <img alt="Hit pipe" src="/src/assets/hitpipe.png" width="100%">
 </p>
 
 
